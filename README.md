@@ -15,12 +15,8 @@ It's designed to make it easy to share an entire code repository or any set of t
 To install `dumpfiles`, you need to have Rust and Cargo installed on your system. Then, you can build the project from source:
 
 ```bash
-git clone https://github.com/yourusername/dumpfiles.git
-cd dumpfiles
-cargo build --release
+cargo install dumpfiles
 ```
-
-The compiled binary will be available in `target/release/dumpfiles`.
 
 ## Usage
 
